@@ -1,4 +1,5 @@
 
+
 .back{
   background-repeat: no-repeat;
   background-image: url('picture.jpg');
@@ -74,6 +75,7 @@ a,a:hover{
   -webkit-transition: all .5s;
   -o-transition: all .5s;
   transition: all .5s;
+  margin-bottom: 10px;
 }
 
 .myform-area .form-area .form-content .facebook:hover,
@@ -81,7 +83,7 @@ a,a:hover{
     background: transparent;
 }
 
-.myform-area .form-area .form-content .twitter{
+.myform-area .form-area .form-content .likedin{
   display: block;
    padding: 10px 20px;
    background: #00ACED;
@@ -95,8 +97,8 @@ a,a:hover{
    transition: all .5s;
 }
 
-.myform-area .form-area .form-content .twitter:hover,
-.myform-area .form-area .form-content .twitter:focus{
+.myform-area .form-area .form-content .likedin:hover,
+.myform-area .form-area .form-content .likedin:focus{
     background: transparent;
 }
 .myform-area .form-area .form-input{
