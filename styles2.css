@@ -1,5 +1,4 @@
 
-
 .back{
   background-repeat: no-repeat;
   background-image: url('picture.jpg');
@@ -65,7 +64,7 @@ a,a:hover{
 
 .myform-area .form-area .form-content .facebook{
   display: block;
-  padding: 10px 60px;
+  padding: 10px 14px;
   background: #3B579D;
   color: #fff;
   font-size: 15px;
